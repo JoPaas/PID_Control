@@ -1,6 +1,5 @@
 # CarND-Controls-PID
-Johannes Paas
-Self-Driving Car Engineer Nanodegree Program
+Johannes Paas, Self-Driving Car Engineer Nanodegree Program
 
 ---
 
